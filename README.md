@@ -21,7 +21,7 @@
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-- [Node.js](https://nodejs.org/en/) (está em outro repositório)
+- [Node.js](https://nodejs.org/en/)
 
 ## 💻 Projeto
 
